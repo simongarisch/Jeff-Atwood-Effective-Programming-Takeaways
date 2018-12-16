@@ -15,4 +15,6 @@ My takeaways from Jeff Atwood's blog to book '[Effective Programming](https://ww
 
 7. Success is rarely determined by the quality of your ideas, but it is frequently determined by the quality of your execution. In software development, execution is staying on top of all the tiny details that make up your app. If you're not constantly obsessing over every aspect of your application, relentlessly polishing every little part of it - no matter how trivial - you're not executing. At least, not well.
 
-8. 
+8. It's been shown time and time again that there is no correlation between years of experience and skill in programming. After about 6 or 12 months working in any particular technology stack, you either get it or you don't. I'm not saying experience doesn't matter in software development. It does. But consider the entire range of a developer's experience, and realise that time invested does not automatically equal skill. Otherwise, you may be rejecting superb software engineers simply because they lack "(n) years of experience" in your narrow little technological niche - and that's a damn shame.
+
+9. 
