@@ -19,4 +19,10 @@ My takeaways from Jeff Atwood's blog to book '[Effective Programming](https://ww
 
 9. When your code is reviewed by another human being - whether that person is sitting right next to you (peer programming), or thousands of miles away - you will produce better software.
 
-10. We have meetings because we think we need them, but all too often, meetings are where work ends up going to die. Meetings should be under an hour, have a clearly defined purpose and optional...
+10. We have meetings because we think we need them, but all too often, meetings are where work ends up going to die. Meetings should be under an hour, have a clearly defined purpose and be optional...
+
+11. The programmers bill of rights: at least two monitors, a fast PC, their choice of mouse and keyboard, a comfortable chair, a fast internet connection, quiet working conditions.
+
+12. Microsoft's [healthy computing guide](https://support.microsoft.com/en-us/help/4101085/accessories-setting-up-your-desktop) is an effective and succinct reference.
+
+13. 
