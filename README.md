@@ -17,4 +17,6 @@ My takeaways from Jeff Atwood's blog to book '[Effective Programming](https://ww
 
 8. It's been shown time and time again that there is no correlation between years of experience and skill in programming. After about 6 or 12 months working in any particular technology stack, you either get it or you don't. I'm not saying experience doesn't matter in software development. It does. But consider the entire range of a developer's experience, and realise that time invested does not automatically equal skill. Otherwise, you may be rejecting superb software engineers simply because they lack "(n) years of experience" in your narrow little technological niche - and that's a damn shame.
 
-9. 
+9. When your code is reviewed by another human being - whether that person is sitting right next to you (peer programming), or thousands of miles away - you will produce better software.
+
+10. We have meetings because we think we need them, but all too often, meetings are where work ends up going to die. Meetings should be under an hour, have a clearly defined purpose and optional...
