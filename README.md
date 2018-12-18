@@ -25,4 +25,16 @@ My takeaways from Jeff Atwood's blog to book '[Effective Programming](https://ww
 
 12. Microsoft's [healthy computing guide](https://support.microsoft.com/en-us/help/4101085/accessories-setting-up-your-desktop) is an effective and succinct reference.
 
-13. 
+13. When you're working on end-user software, and it doesn't matter if you're working on a web app, adding a feature to an existing application, or working on a plug-in for some other application, you need to design the UI first. To the end user, the interface is the application. Stay out of technical development environments when mocking your user interface. See [Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces](https://www.amazon.com.au/Paper-Prototyping-Interfaces-Interactive-Technologies-ebook/dp/B006M86382).
+
+14. Keep your unit testing and code coverage in perspective - the ultimate unit test is whether users want to use your application. All of the other tests you write are totally irrelevant until you can get that one to pass.
+
+15. Even if version 1 sucks, ship it anyway. Instead of spending three months fixing up this version in a sterile, isolated lab, you could be spending that same three month period listening to feedback from real live, honest-to-god, annoyingly dedicated users of your software. Now, i'm not saying that you should release crap. What's important isn't so much the initial state of the software, but what you do after releasing the software.
+
+16. Peer code reviews are the single biggest thing you can do to improve your code.
+
+17. I pity the fool who doesn't write unit tests. Whenever you are tempted to type something into a print statement or a debugger expression, write it as a test instead. That small change in mindset could lead to bigger shifts like test-first development. However, automated test suites are a poor substitute for real-world beta testing by actual beta testers. Users are erratic. Users have weird software installed on their PCs. The real and best testing occurs when you ship your software to beta testers.
+
+18. 
+
+
