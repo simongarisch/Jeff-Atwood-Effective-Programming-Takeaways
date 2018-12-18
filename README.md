@@ -35,6 +35,6 @@ My takeaways from Jeff Atwood's blog to book '[Effective Programming](https://ww
 
 17. I pity the fool who doesn't write unit tests. Whenever you are tempted to type something into a print statement or a debugger expression, write it as a test instead. That small change in mindset could lead to bigger shifts like test-first development. However, automated test suites are a poor substitute for real-world beta testing by actual beta testers. Users are erratic. Users have weird software installed on their PCs. The real and best testing occurs when you ship your software to beta testers.
 
-18. 
+18. The most common way to get usability wrong is to listen to what users say rather than actually watching what they do. Acting on user feedback alone is questionable.
 
-
+19. If it looks corporate, change it.
